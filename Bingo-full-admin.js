@@ -1,5 +1,5 @@
 /* =========================
-   Cap-Cip-Cup K3 - Bingo.js (MCQ only)
+   Cerdas Cermat Frengki - Bingo.js (MCQ only)
    + Live team name
    + Take Over dari sisa REGULAR (fallback opsional)
    + Simpan TO ke boardCells (questionId/text) seperti Regular (persist)
